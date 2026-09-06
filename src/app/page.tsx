@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import StorylineViewer from "@/components/StorylineViewer";
+import PhotoboothGallery from "@/components/PhotoboothGallery";
 import Link from "next/link";
 import { Building2, Layers, Users } from "lucide-react";
 
@@ -72,6 +73,9 @@ export default function HomePage() {
 
         {/* THE INTERACTIVE STORYLINE COMPONENT */}
         <StorylineViewer />
+
+        {/* PHOTOBOOTH GALLERY SECTION */}
+        <PhotoboothGallery />
 
       </main>
 

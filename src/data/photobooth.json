@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "filename": "photo_1.webp",
+    "src": "/photobooth/photo_1.webp",
+    "caption": "Keluarga Besar KKN-T IDBU 61 Kelompok 3 \u2014 Ponpes Asshodiqiyah",
+    "aspect": "landscape"
+  },
+  {
+    "id": 2,
+    "filename": "photo_2.webp",
+    "src": "/photobooth/photo_2.webp",
+    "caption": "Momen kebersamaan santai setelah 45 hari menuntaskan program",
+    "aspect": "landscape"
+  },
+  {
+    "id": 3,
+    "filename": "photo_3.webp",
+    "src": "/photobooth/photo_3.webp",
+    "caption": "Senyum lepas 11 mahasiswa lintas 4 fakultas di hari kelulusan KKN",
+    "aspect": "landscape"
+  },
+  {
+    "id": 4,
+    "filename": "photo_4.webp",
+    "src": "/photobooth/photo_4.webp",
+    "caption": "Pose bebas tim pengabdian: dari teknik, sains terapan, hingga sosial bisnis",
+    "aspect": "landscape"
+  },
+  {
+    "id": 5,
+    "filename": "photo_5.webp",
+    "src": "/photobooth/photo_5.webp",
+    "caption": "Satu frame penuh cerita: tawa, kerja keras, dan kenangan Kaligawe",
+    "aspect": "landscape"
+  },
+  {
+    "id": 6,
+    "filename": "photo_6.webp",
+    "src": "/photobooth/photo_6.webp",
+    "caption": "Kompak dalam balutan seragam almamater kuning kebanggaan Undip",
+    "aspect": "landscape"
+  },
+  {
+    "id": 7,
+    "filename": "photo_7.webp",
+    "src": "/photobooth/photo_7.webp",
+    "caption": "Keluarga baru yang tumbuh dari obrolan posko dan survei kolam retensi",
+    "aspect": "landscape"
+  },
+  {
+    "id": 8,
+    "filename": "photo_8.webp",
+    "src": "/photobooth/photo_8.webp",
+    "caption": "Refleksi kehangatan pengabdian di Pondok Pesantren Asshodiqiyah",
+    "aspect": "landscape"
+  },
+  {
+    "id": 9,
+    "filename": "photo_9.webp",
+    "src": "/photobooth/photo_9.webp",
+    "caption": "Energi muda mahasiswa menyatu dalam semangat pengabdian masyarakat",
+    "aspect": "landscape"
+  },
+  {
+    "id": 10,
+    "filename": "photo_10.webp",
+    "src": "/photobooth/photo_10.webp",
+    "caption": "Jejak persahabatan abadi yang terpatri setelah penarikan KKN",
+    "aspect": "landscape"
+  }
+]
