@@ -1,101 +1,81 @@
-import Image from "next/image";
+import React from "react";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import StorylineViewer from "@/components/StorylineViewer";
+import Link from "next/link";
+import { Building2, Layers, Users } from "lucide-react";
 
-export default function Home() {
+export default function HomePage() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <>
+      <Navbar />
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+      <main className="max-w-3xl mx-auto px-6 pt-12 pb-24 w-full">
+        
+        {/* HERO TITLE SECTION */}
+        <header className="mb-12 space-y-4">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 text-emerald-800 text-xs font-semibold border border-emerald-200/60">
+            <span className="w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse"></span>
+            KKN-T Tim II Universitas Diponegoro 2025/2026
+          </div>
+
+          <h1 className="text-4xl sm:text-5xl lg:text-[54px] font-serif font-normal text-slate-950 leading-[1.12] tracking-tight">
+            Air, Koperasi, dan 45 Hari Menatap Genangan di Kaligawe
+          </h1>
+
+          <p className="text-lg sm:text-xl font-serif italic text-slate-600 leading-relaxed font-normal pt-1">
+            Catatan lapangan 11 mahasiswa lintas disiplin ilmu di Pondok Pesantren Asshodiqiyah. Cerita tentang bagaimana obrolan sowan, pengukuran tanah, sensor air rakitan, dan buku kas sederhana mempertemukan teori kampus dengan denyut nyata santri.
+          </p>
+
+          <div className="flex flex-wrap items-center justify-between gap-4 pt-6 border-t border-slate-200 text-xs text-slate-500 font-medium">
+            <div>
+              <span className="text-slate-400">Dosen Pembimbing:</span>{" "}
+              <strong className="text-slate-800">Audiyati Ishmata Hani&apos;a, S.T., M.T.</strong>
+            </div>
+            <div className="flex items-center gap-3">
+              <span>Semarang, Jawa Tengah</span>
+              <span>•</span>
+              <span>Juli – Agustus 2026</span>
+            </div>
+          </div>
+        </header>
+
+        {/* QUICK NAVIGATION CARDS */}
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-12">
+          <Link
+            href="/profil-pesantren"
+            className="p-4 bg-white rounded-xl border border-slate-200/80 hover:border-emerald-600/60 transition shadow-xs group"
           >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+            <Building2 className="w-4 h-4 text-emerald-700 mb-2 group-hover:scale-110 transition" />
+            <div className="text-xs font-bold text-slate-900">Tentang Pesantren</div>
+            <div className="text-[11px] text-slate-500 mt-0.5">Kondisi dataran rob & kolam</div>
+          </Link>
+
+          <Link
+            href="/program-kerja"
+            className="p-4 bg-white rounded-xl border border-slate-200/80 hover:border-emerald-600/60 transition shadow-xs group"
           >
-            Read our docs
-          </a>
+            <Layers className="w-4 h-4 text-emerald-700 mb-2 group-hover:scale-110 transition" />
+            <div className="text-xs font-bold text-slate-900">Program & TTG</div>
+            <div className="text-[11px] text-slate-500 mt-0.5">IoT, SOP, & digital kas</div>
+          </Link>
+
+          <Link
+            href="/anggota"
+            className="p-4 bg-white rounded-xl border border-slate-200/80 hover:border-emerald-600/60 transition shadow-xs group"
+          >
+            <Users className="w-4 h-4 text-emerald-700 mb-2 group-hover:scale-110 transition" />
+            <div className="text-xs font-bold text-slate-900">11 Mahasiswa Tim</div>
+            <div className="text-[11px] text-slate-500 mt-0.5">Nama, NIM, prodi, & peran</div>
+          </Link>
         </div>
+
+        {/* THE INTERACTIVE STORYLINE COMPONENT */}
+        <StorylineViewer />
+
       </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+
+      <Footer />
+    </>
   );
 }
