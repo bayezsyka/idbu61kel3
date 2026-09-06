@@ -1,0 +1,189 @@
+[
+  {
+    "week": 1,
+    "title": "Minggu 1: Pelepasan, Sowan Ndalem & Pemetaan Wilayah",
+    "date": "29 Juni \u2013 05 Juli 2026",
+    "themeTag": "Fase Inisiasi & Sowan",
+    "summary": "Hari-hari pertama 11 mahasiswa KKN-T IDBU 61 di Kelurahan Kaligawe. Dimulai dari upacara penerjunan di kampus, sowan ke kediaman Pengasuh Pondok Pesantren Asshodiqiyah, silaturahmi ke pimpinan SMK Asshodiqiyah, serta audiensi ke kantor Kelurahan Kaligawe untuk mengidentifikasi langsung kerentanan fisik kawasan dan kebutuhan mendesak santri.",
+    "keyStory": "Dalam sowan perdana bersama pengasuh pesantren dan lurah pondok, kami mendengarkan realitas bahwa letak geografis Kaligawe berada di dataran rendah cekungan. Air rob laut dan limpasan hujan sering mengepung halaman asrama. Dari sinilah 11 mahasiswa menyatukan kompas pengabdian untuk menyusun Laporan Rencana Kegiatan (LRK).",
+    "photos": [
+      {
+        "src": "/story_photos/w1_farros_sowan.webp",
+        "caption": "Sowan awal dan audiensi perkenalan tim KKN-T IDBU 61 dengan pengurus Ponpes Asshodiqiyah",
+        "author": "A Faidhullah Farros Basykailakh"
+      },
+      {
+        "src": "/story_photos/w1_dendy_posko.webp",
+        "caption": "Koordinasi awal pemetaan batas tapak dan kondisi eksisting lingkungan pesantren",
+        "author": "Dendy Astrian Nugraha"
+      }
+    ],
+    "highlights": [
+      "Penerjunan resmi KKN-T Tim II Universitas Diponegoro",
+      "Sowan dan silaturahmi ke Pengasuh Pondok Pesantren Asshodiqiyah",
+      "Identifikasi masalah: genangan rob, kolam retensi, dan pembukuan koperasi",
+      "Penyusunan dan pengesahan Laporan Rencana Kegiatan (LRK)"
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Minggu 2: Survei Teknis Kolam Retensi & Analisis Lapisan Tanah",
+    "date": "06 \u2013 12 Juli 2026",
+    "themeTag": "Multidisiplin 1: Infrastruktur Kolam",
+    "summary": "Fokus investigasi teknis lapangan di area kolam retensi belakang asrama pondok. Pengukuran geometri luas penampang kolam, analisis hidrologi limpasan saluran, pemetaan geologi litologi tanah, dan observasi awal unit usaha koperasi santri.",
+    "keyStory": "Febrian Nardo, Kumaralalita Putri Kamalia (Lala), dan Muhammad Ariq Zahir menyusuri sempadan kolam membawa meteran dan alat survei tanah. Mereka menghitung kapasitas tampung kolam terhadap curah hujan ekstrem, mengamati litologi tanah aluvial yang rentan terhadap rembesan air ke fondasi asrama, sementara Khalishah Hafizhah Hasna (Lisa) mulai membuat sketsa tapak arsitektural.",
+    "photos": [
+      {
+        "src": "/story_photos/w2_lala_survei.webp",
+        "caption": "Pengukuran dimensi teknis dan geometri saluran inlet menuju kolam retensi",
+        "author": "Kumaralalita Putri Kamalia"
+      },
+      {
+        "src": "/story_photos/w2_febrian_kolam.webp",
+        "caption": "Pengecekan dinding penahan tanah dan titik rawan genangan air di belakang asrama",
+        "author": "Febrian Nardo"
+      }
+    ],
+    "highlights": [
+      "Pengukuran kapasitas tampung dan luas penampang kolam retensi",
+      "Pemetaan litologi tanah aluvial dan daya resap kawasan oleh Muhammad Ariq Zahir",
+      "Penyusunan data awal hidrologi saluran inlet oleh Febrian Nardo & Kumaralalita Putri Kamalia",
+      "Sketsa awal masterplan lanskap pengaman kolam oleh Khalishah Hafizhah Hasna"
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Minggu 3: Saringan Trashrack, Kelistrikan Pompa & Pembukuan Koperasi",
+    "date": "13 \u2013 19 Juli 2026",
+    "themeTag": "Multidisiplin 1 & 2: Desain & Keuangan",
+    "summary": "Perumusan solusi atas masalah utama kolam: pompa air yang sering macet akibat sampah plastik dan sedimen lumpur, serta audit mendalam terhadap sistem transaksi manual di Koperasi Pondok Pesantren Asshodiqiyah.",
+    "keyStory": "Anastasya Shayla Mukti merancang sistem dan modul SOP pembersihan sampah sedimen pada saringan trashrack agar pompa hisap terlindungi. Dendy Astrian Nugraha memeriksa panel daya listrik pompa. Di ruang koperasi, Lia Nora Angelina Panjaitan, Muhammad Ulin Nuha, dan Maharani Dinda Arroyyani mendapati pencatatan transaksi kas santri masih ditulis manual di buku bergaris.",
+    "photos": [
+      {
+        "src": "/story_photos/w3_anastasya_trashrack.webp",
+        "caption": "Observasi saringan sampah eksisting dan identifikasi penumpukan residu sedimen",
+        "author": "Anastasya Shayla Mukti"
+      },
+      {
+        "src": "/story_photos/w3_lia_koperasi.webp",
+        "caption": "Audit pembukuan kas masuk-keluar dan wawancara dengan santri penjaga koperasi",
+        "author": "Lia Nora Angelina Panjaitan"
+      }
+    ],
+    "highlights": [
+      "Perancangan modul pembersihan trashrack dan keselamatan kerja oleh Anastasya Shayla Mukti",
+      "Survei kelistrikan dan jalur kabel gardu pompa oleh Dendy Astrian Nugraha",
+      "Analisis kelayakan unit usaha dan margin laba koperasi oleh Lia Nora Angelina Panjaitan",
+      "Partisipasi tim dalam pemaparan materi hidup bersih dan sehat (PHBS) MPLS SMK"
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Minggu 4: Fabrikasi IoT ESP32, Web Mitigasi & Kas Digital Koperasi",
+    "date": "20 \u2013 26 Juli 2026",
+    "themeTag": "Fase Implementasi TTG & Digitalisasi",
+    "summary": "Puncak pengerjaan teknologi tepat guna. Perakitan sensor ultrasonik pemantau level air berbasis mikrokontroler ESP32, peluncuran website informasi mitigasi bencana, serta penerapan template spreadsheet kas digital untuk santri kasir.",
+    "keyStory": "Dendy Astrian Nugraha dan A Faidhullah Farros Basykailakh merakit perangkat sensor IoT di posko. Farros menghubungkan data ketinggian air ke website profil pesantren, sehingga status kolam dapat dipantau pengurus dari ponsel. Di saat yang sama, Muhammad Ulin Nuha dan Maharani Dinda melatih santri pengelola koperasi mengoperasikan buku kas spreadsheet dan menerapkan SOP stok opname.",
+    "photos": [
+      {
+        "src": "/story_photos/w4_dendy_iot.webp",
+        "caption": "Perakitan modul mikrokontroler ESP32 dan pengujian sensor ultrasonik level air",
+        "author": "Dendy Astrian Nugraha"
+      },
+      {
+        "src": "/story_photos/w4_farros_web.webp",
+        "caption": "Pengembangan antarmuka website profil pesantren dan sistem informasi mitigasi",
+        "author": "A Faidhullah Farros Basykailakh"
+      },
+      {
+        "src": "/story_photos/w4_dinda_sop.webp",
+        "caption": "Penyusunan dokumen SOP tata kelola kelembagaan dan manajemen stok koperasi",
+        "author": "Maharani Dinda Arroyyani"
+      }
+    ],
+    "highlights": [
+      "Perakitan perangkat keras sensor level air ultrasonik IoT ESP32",
+      "Peluncuran dan deployment website profil pesantren tanggap banjir",
+      "Penerapan sistem buku kas digital spreadsheet terpadu di koperasi santri",
+      "Penyusunan jadwal konstruksi pagar jagaan oleh Febrian Nardo"
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Minggu 5: Pelatihan Mata Muda Santri, Public Speaking & Sanitasi",
+    "date": "27 Juli \u2013 02 Agustus 2026",
+    "themeTag": "Multidisiplin 3: Edukasi SDGs & Sanitasi",
+    "summary": "Pemberdayaan santri MTs dan MA Asshodiqiyah melalui pelatihan berpikir kritis dan public speaking, dipadukan dengan aksi bersih lingkungan asrama dan evaluasi menyeluruh sarana sanitasi pondok.",
+    "keyStory": "Bongki Sabian memimpin workshop interaktif Mata Muda di aula pondok, melatih puluhan santri berbicara di depan mikrofon mengenai kepedulian lingkungan SDGs 11. Muhammad Ariq Zahir mendata fasilitas kamar mandi dan sanitasi, sementara seluruh tim KKN bersama santri menggelar kerja bakti massal membersihkan selokan dan memilah sampah.",
+    "photos": [
+      {
+        "src": "/story_photos/w5_bongki_matamuda.webp",
+        "caption": "Pelatihan Mata Muda: Public Speaking & Critical Thinking SDGs 11 bagi santri",
+        "author": "Bongki Sabian"
+      },
+      {
+        "src": "/story_photos/w5_sanitasi.webp",
+        "caption": "Aksi gotong royong pembersihan saluran air dan edukasi pemilahan sampah santri",
+        "author": "Anastasya Shayla Mukti"
+      }
+    ],
+    "highlights": [
+      "Peningkatan pemahaman konsep SDGs 11 santri dari 23% menjadi 77%",
+      "Peningkatan sense of ownership santri terhadap fasilitas pondok hingga 92%",
+      "Pendataan dan evaluasi sanitasi kompleks pesantren oleh Muhammad Ariq Zahir",
+      "Penyelesaian masterplan 3D lanskap kolam oleh Khalishah Hafizhah Hasna"
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Minggu 6: Sinergi Digitalisasi Bank Jateng, Pengecatan & 17-an",
+    "date": "03 \u2013 09 Agustus 2026",
+    "themeTag": "Kemitraan & Kebersamaan",
+    "summary": "Perluasan dampak program melalui koordinasi digitalisasi administrasi pesantren dalam kegiatan MoU dengan Bank Jateng, dilanjutkan kontribusi sosial pengecatan sarana olahraga dan semarak perayaan kemerdekaan.",
+    "keyStory": "A Faidhullah Farros Basykailakh mewakili mahasiswa memaparkan rancangan dashboard administrasi pesantren dalam pembahasan kerja sama dengan Bank Jateng. Di lapangan, Dendy, Febrian Nardo, Lisa, dan seluruh tim bergotong royong mengecat lapangan futsal pesantren serta menjadi koordinator jalan sehat santri.",
+    "photos": [
+      {
+        "src": "/story_photos/w6_farros_mou.webp",
+        "caption": "Koordinasi pemaparan rancangan dashboard administrasi pada forum MoU Bank Jateng",
+        "author": "A Faidhullah Farros Basykailakh"
+      },
+      {
+        "src": "/story_photos/w6_febrian_lapangan.webp",
+        "caption": "Kerja bakti pembersihan dan pengecatan sarana olahraga lapangan futsal santri",
+        "author": "Febrian Nardo"
+      }
+    ],
+    "highlights": [
+      "Pemaparan sistem informasi pesantren dalam agenda MoU Bank Jateng",
+      "Pengecatan dan pembenahan fasilitas lapangan futsal santri",
+      "Pendampingan kegiatan jalan sehat dan perlombaan HUT RI pesantren",
+      "Pengambilan footage video dokumenter After Movie oleh tim kreatif"
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Minggu 7: Serah Terima Berita Acara, Gelar Karya & Penarikan",
+    "date": "10 \u2013 19 Agustus 2026",
+    "themeTag": "Fase Finalisasi & Pengesahan",
+    "summary": "Penyerahan resmi seluruh luaran Teknologi Tepat Guna (TTG) melalui penandatanganan Berita Acara bersama pimpinan pesantren dan lurah Kaligawe, diikuti pameran Expo Gelar Karya IDBU 61 dan pemutaran video After Movie.",
+    "keyStory": "Di ndalem pondok, 3 paket Berita Acara Serah Terima ditandatangani. Perangkat sensor IoT di kolam retensi, website mitigasi bencana, modul SOP trashrack, cetak biru lanskap 3D, serta buku kas digital diserahkan sepenuhnya ke pondok pesantren. Video dokumenter After Movie karya Khalishah Hafizhah Hasna, Muhammad Ulin Nuha, dan seluruh tim diputar menandai selesainya 45 hari pengabdian.",
+    "photos": [
+      {
+        "src": "/photobooth/photo_1.webp",
+        "caption": "Potret keluarga besar 11 mahasiswa KKN-T IDBU 61 Kelompok 3 di hari penarikan",
+        "author": "Tim KKN-T IDBU 61"
+      },
+      {
+        "src": "/photobooth/photo_6.webp",
+        "caption": "Kompak berseragam almamater kuning Undip saat expo pameran Gelar Karya",
+        "author": "Tim KKN-T IDBU 61"
+      }
+    ],
+    "highlights": [
+      "Penandatanganan 3 Berita Acara Serah Terima Program Multidisiplin",
+      "Partisipasi aktif dalam Expo Gelar Karya IDBU 61 Universitas Diponegoro",
+      "Peluncuran video dokumenter sinematik After Movie Kelompok 3",
+      "Penyelesaian Laporan Pelaksanaan Kegiatan (LPK 90 Halaman) terverifikasi DPL"
+    ]
+  }
+]
