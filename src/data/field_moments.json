@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "src": "/field_photos/moment_1.webp",
+    "member": "Anastasya",
+    "caption": "Observasi saringan sampah trashrack dan penyusunan modul sanitasi lingkungan",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "id": 2,
+    "src": "/field_photos/moment_2.webp",
+    "member": "Anastasya",
+    "caption": "Observasi saringan sampah trashrack dan penyusunan modul sanitasi lingkungan",
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": 3,
+    "src": "/field_photos/moment_3.webp",
+    "member": "Bongki",
+    "caption": "Pelatihan Mata Muda: Public Speaking & Critical Thinking SDGs 11 di hadapan santri",
+    "width": 734,
+    "height": 1200
+  },
+  {
+    "id": 4,
+    "src": "/field_photos/moment_4.webp",
+    "member": "Dendy",
+    "caption": "Perakitan modul sensor IoT ultrasonik ESP32 & pengujian kelistrikan pompa kolam",
+    "width": 688,
+    "height": 386
+  },
+  {
+    "id": 5,
+    "src": "/field_photos/moment_5.webp",
+    "member": "Dendy",
+    "caption": "Perakitan modul sensor IoT ultrasonik ESP32 & pengujian kelistrikan pompa kolam",
+    "width": 536,
+    "height": 589
+  },
+  {
+    "id": 6,
+    "src": "/field_photos/moment_6.webp",
+    "member": "Dinda",
+    "caption": "Perumusan SOP kelembagaan, alur pengadaan barang dan manajemen stok koperasi",
+    "width": 1200,
+    "height": 676
+  },
+  {
+    "id": 7,
+    "src": "/field_photos/moment_7.webp",
+    "member": "Dinda",
+    "caption": "Perumusan SOP kelembagaan, alur pengadaan barang dan manajemen stok koperasi",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": 8,
+    "src": "/field_photos/moment_8.webp",
+    "member": "Farros",
+    "caption": "Koordinasi integrasi sistem informasi mitigasi & digitalisasi pesantren bersama mitra",
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": 9,
+    "src": "/field_photos/moment_9.webp",
+    "member": "Farros",
+    "caption": "Koordinasi integrasi sistem informasi mitigasi & digitalisasi pesantren bersama mitra",
+    "width": 1200,
+    "height": 847
+  },
+  {
+    "id": 10,
+    "src": "/field_photos/moment_10.webp",
+    "member": "Febrian",
+    "caption": "Penyusunan desain pagar pengaman jagaan dan jadwal konstruksi infrastruktur",
+    "width": 960,
+    "height": 1200
+  },
+  {
+    "id": 11,
+    "src": "/field_photos/moment_11.webp",
+    "member": "Febrian",
+    "caption": "Penyusunan desain pagar pengaman jagaan dan jadwal konstruksi infrastruktur",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "id": 12,
+    "src": "/field_photos/moment_12.webp",
+    "member": "Lala",
+    "caption": "Pengukuran dimensi teknis saluran inlet dan kapasitas hidrologi kolam retensi",
+    "width": 900,
+    "height": 1200
+  }
+]
